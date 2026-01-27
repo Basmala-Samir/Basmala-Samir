@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Basmala</h1>
-<h3 align="center">A passionate Data Anaalyst 💗</h3>
+<h3 align="center">A passionate Data Analyst 💗</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=basmala-samir" alt="basmala-samir" /></a> </p>
 
