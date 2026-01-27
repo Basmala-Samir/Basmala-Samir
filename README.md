@@ -1,11 +1,11 @@
 <h1 align="center"> I'm Basmala</h1>
-<h3 align="center">A passionate .Net fullstack developer</h3>
+<h3 align="center">A passionate Data Anaalyst 💗</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=basmala-samir" alt="basmala-samir" /></a> </p>
 
-- 🌱 I’m currently learning **.Net core**
+- 📍 I’m currently learning **Data Analysis**
 
-- 📫 How to reach me **basmalla45v@gmail.com**
+- 📧 How to reach me **basmalla45v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
